@@ -48,10 +48,3 @@ Karo Pitch is a dynamic platform designed to bridge the gap between innovative s
 
 The project is configured for deployment on Vercel. Pushing changes to the `main` branch will automatically trigger a new deployment.
 
-## 📄 License
-
-This project is for internship assignment purposes.
-
----
-
-Built with ❤️ by Shreya Singh Chauhan
